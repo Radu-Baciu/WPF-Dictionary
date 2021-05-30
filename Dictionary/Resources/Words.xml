@@ -1,0 +1,16 @@
+<words>
+  <word Name="Măr" Description="Fruct al mărului , de formă rotundă-turtită și de diferite culori." Category="Fruct" />
+  <word Name="Portocală" Description="Fructul portocalului, de formă sferică, aromat și zemos, bogat în vitamine, învelit într-o coajă de culoare galbenă-roșiatică." Category="Fruct" />
+  <word Name="Prună" Description="Fructul prunului, drupă de formă alungită, de culoare vânătă sau gălbuie, cu sâmbure mare." Category="Fruct" />
+  <word Name="Lămaie" Description="Fructul lămâiului, de formă sferică alungită, cu coaja galbenă, aromată și cu miezul acru, bogat în vitamine." Category="Fruct" />
+  <word Name="Laptop" Description="Computer personal, portabil, cu baterii sau curent electric." Category="Dispozitiv" />
+  <word Name="Computer" Description="Microcalculator pentru prelucrarea și afișarea informațiilor provenite de la o serie de periferice, cu diverse aplicații utilitare, educaționale, distractive etc." Category="Dispozitive" />
+  <word Name="Automobil" Description="Vehicul cu patru (rar trei, șase) roți pneumatice, mișcat de un motor cu explozie internă, cu aburi, cu electricitate sau aer comprimat" Category="Vehicul" />
+  <word Name="Metrou" Description="Mijloc de transport în comun pe cale ferată urbană subterană, mai rar aeriană sau la nivelul solului" Category="Vehicul" />
+  <word Name="Tren" Description="Convoi de vagoane de cale ferată legate între ele și puse în mișcare de o locomotivă" Category="Vehicul" />
+  <word Name="Fericire" Description="Stare de mulțumire sufletească intensă și deplină" Category="Stare" />
+  <word Name="Tristete" Description="Starea sufletească apăsătoare; mâhnire, amărăciune" Category="Stare" />
+  <word Name="Compilator" Description="Program utilitar de transformare a unui limbaj algoritmic în alt limbaj de programare" Category="Software" />
+  <word Name="Sistem de operare" Description="Ansamblu de programe care are rolul de a gestiona și de a facilita utilizatorului accesul la resursele sistemului de calcul." Category="Software" />
+  <word Name="Telefon" Description="Aparat prevăzut cu un transmițător și un receptor și care, legat de o instalație telefonică centrală, permite convorbiri la distanță" Category="Dispozitiv" />
+</words>
